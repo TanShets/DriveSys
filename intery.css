@@ -1,0 +1,76 @@
+body{
+	background-image: url('josuke.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.logout-1{
+	background-color: black;
+	opacity: 0.8;
+	color: white;
+	width: 360px;
+	height: 90px;
+	padding: 30px;
+	position: absolute;
+	left: 480px;
+	top: 475px;
+}
+
+#pos{
+	position: absolute;
+	left: 570px;
+	top: 510px;
+	width: 260px;
+}
+
+.submit{
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    position: relative;
+    text-align: center;
+    bottom: 0px;
+    top: 50px;
+    width: 92%;
+    height: 100%;
+}
+.submit:hover{
+    background-color: darkblue;
+}
+.submit:active{
+    background-color: darkolivegreen;
+}
+
+.details{
+	color: white;
+	position: relative;
+	top: -5px;
+	text-align: center;
+	font-size: 35px;
+}
+
+#submit2{
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    position: relative;
+    text-align: center;
+    bottom: 0px;
+    width: 100px;
+    height: 20px;
+}
+#submit2:hover{
+    background-color: darkblue;
+}
+#submit2:active{
+    background-color: darkolivegreen;
+}
+.input-login{
+    border-radius: 4px;
+    width: 90%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 17px;
+}

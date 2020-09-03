@@ -1,0 +1,152 @@
+.submit{
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    position: relative;
+    text-align: center;
+    bottom: 0px;
+    width: 92%;
+    height: 100%;
+}
+.submit:hover{
+    background-color: darkblue;
+}
+.submit:active{
+    background-color: darkolivegreen;
+}
+
+.login{
+	background-color: black;
+	opacity: 0.8;
+	color: white;
+	width: 360px;
+	height: 330px;
+	padding: 30px;
+	position: absolute;
+	left: 480px;
+	top: 220px;
+}
+
+#goto{
+	width: 360px;
+	height: 40px;
+	position: absolute;
+	top: 450px;
+	left: 524px;
+}
+#goto3{
+	width: 360px;
+	height: 40px;
+	position: absolute;
+	top: 510px;
+	left: 524px;
+}
+
+#Title{
+	font-size: 40px;
+	padding-bottom: 30px;
+}
+
+#Title-2{
+	font-size: 35px;
+	padding-bottom: 30px;
+}
+
+.details{
+	color: white;
+	position: relative;
+	top: -15px;
+	font-size: 20px;
+	left: 15px;
+}
+
+.detailsx{
+	color: white;
+	position: relative;
+	top: -15px;
+	font-size: 20px;
+	left: 15px;
+	width: 100%;
+}
+
+body{
+	background-image: url('josuke.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.account{
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+    width: 360px;
+    height: 290px;
+    padding: 50px;
+    position: absolute;
+    left: 480px;
+    top: 250px;
+}
+
+td{
+	padding-top: 10px;
+	padding-right: 15px;
+}
+
+#tab{
+	padding-top: -10px;
+	padding-right: 0px;
+	padding-left: -20px;
+}
+
+.Error{
+	color: red;
+}
+
+.input-login{
+	border-radius: 4px;
+	width: 90%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 17px;
+}
+
+.Create-2{
+	background-color: black;
+	opacity: 0.8;
+	color: white;
+	width: 420px;
+	height: 460px;
+	padding: 20px;
+	position: absolute;
+	left: 875px;
+	top: 100px;
+}
+
+.input-create{
+	border-radius: 4px;
+	width: 105%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 17px;
+}
+
+.input-create1{
+	border-radius: 4px;
+	width: 105%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 4px;
+	margin-right: 6px;
+	font-size: 17px;
+}
+
+#gappy{
+	padding-top: 60px;
+}
+
+#gap{
+	padding-bottom: 2.5px;
+	padding-top: 2.5px;
+	font-size: 20px;
+}
